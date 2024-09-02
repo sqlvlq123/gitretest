@@ -1,1 +1,2 @@
-add new words 
+add new words
+count=2
