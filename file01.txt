@@ -1,2 +1,2 @@
 add new words
-count=2
+count=6
